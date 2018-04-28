@@ -12,9 +12,9 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
-import static org.testng.Assert.*;
+import static org.testng.Assert.assertEquals;
 
-public class OpenHomePageTest {
+public class NavigateToLoanTest {
     WebDriver webDriver;
 
     @BeforeClass
@@ -39,8 +39,23 @@ public class OpenHomePageTest {
     }
 
     @Test
-    public void testOpenHomePage() {
+    public void testNavigateToLoanPage() {
+        // get an a tag with the specified link text
+        WebElement linkToLoans = webDriver.findElement(By.linkText("Loans"));
+        // click the link
+        linkToLoans.click();
         // validate whether it opened the correct page by comparing the page title
-        assertEquals(RBC.TITLE_PERSONAL_HOME, webDriver.getTitle());
+        assertEquals(RBC.TITLE_PERSONAL_LOAN, webDriver.getTitle());
+    }
+
+    @Test
+    public void testWaitAndNavigateToLoanPage() {
+        // create a wait handler
+        WebDriverWait wait=new WebDriverWait(webDriver, 20);
+        // wain until the a tag with the specified link text is clickable and get the element
+        WebElement element = wait.until(ExpectedConditions.elementToBeClickable(By.linkText("Loans")));
+        element.click();
+        // validate whether it opened the correct page by comparing the page title
+        assertEquals(RBC.TITLE_PERSONAL_LOAN, webDriver.getTitle());
     }
 }
