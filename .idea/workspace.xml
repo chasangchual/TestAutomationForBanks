@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eac9a1a9-f6ea-434f-8ad3-443160cd260a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/RBCLoan/src/main/java/com/sangchual/test/automation/rbc/loan/quote/HelloSelenium.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RBCLoan/src/test/java/com/sangchual/test/automation/rbc/loan/quote/CarLoanCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RBCLoan/src/test/java/com/sangchual/test/automation/rbc/loan/quote/HelloSeleniumTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RBCLoan/target/test-classes/com/sangchual/test/automation/rbc/loan/quote/OpenHomePageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/RBCLoan/target/test-classes/com/sangchual/test/automation/rbc/loan/quote/OpenHomePageTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RBCLoan/src/test/java/com/sangchual/test/automation/rbc/loan/quote/CarLoanCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/RBCLoan/src/test/java/com/sangchual/test/automation/rbc/loan/quote/CarLoanCalculator.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/RBCLoan/target/" />
@@ -20,15 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RBCLoan/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TDRoan/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
@@ -54,8 +42,8 @@
       <file leaf-file-name="NavigateToLoanTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RBCLoan/src/test/java/com/sangchual/test/automation/rbc/loan/quote/NavigateToLoanTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="21" column="40" lean-forward="true" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+            <state relative-caret-position="120">
+              <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#699#700#0" expanded="true" />
@@ -65,25 +53,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CarLoanCalculator.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="CarLoanCalculator.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/RBCLoan/src/test/java/com/sangchual/test/automation/rbc/loan/quote/CarLoanCalculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1095">
-              <caret line="113" column="28" selection-start-line="113" selection-start-column="28" selection-end-line="113" selection-end-column="28" />
+            <state relative-caret-position="231">
+              <caret line="112" lean-forward="true" selection-start-line="112" selection-end-line="112" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#647#648#0" expanded="true" />
-                <element signature="e#694#695#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WebDriverHelper.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ExpectedConditions.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.11.0/selenium-support-3.11.0.jar!/org/openqa/selenium/support/ui/ExpectedConditions.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="482" column="45" selection-start-line="482" selection-start-column="45" selection-end-line="482" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WebDriverHelper.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RBCLoan/src/test/java/com/sangchual/test/automation/WebDriverHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="28" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="28" />
+            <state relative-caret-position="345">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -94,7 +89,7 @@
       <file leaf-file-name="GettingStartedTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RBCLoan/src/test/java/com/sangchual/test/automation/rbc/loan/quote/GettingStartedTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
+            <state relative-caret-position="885">
               <caret line="70" column="5" selection-start-line="16" selection-end-line="70" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -106,8 +101,8 @@
       <file leaf-file-name="HelloSelenium.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RBCLoan/src/main/java/com/sangchual/test/automation/rbc/loan/quote/HelloSelenium.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+            <state relative-caret-position="60">
+              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -118,8 +113,8 @@
       <file leaf-file-name="HelloSeleniumTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RBCLoan/src/test/java/com/sangchual/test/automation/rbc/loan/quote/HelloSeleniumTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+            <state relative-caret-position="150">
+              <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -164,8 +159,8 @@
         <option value="$PROJECT_DIR$/RBCLoan/src/test/java/com/sangchual/test/automation/rbc/loan/quote/NavigateToLoanTest.java" />
         <option value="$PROJECT_DIR$/RBCLoan/src/main/java/com/sangchual/test/automation/rbc/loan/quote/HelloSelenium.java" />
         <option value="$PROJECT_DIR$/RBCLoan/src/test/java/com/sangchual/test/automation/rbc/loan/quote/HelloSeleniumTest.java" />
-        <option value="$PROJECT_DIR$/RBCLoan/src/test/java/com/sangchual/test/automation/rbc/loan/quote/CarLoanCalculator.java" />
         <option value="$PROJECT_DIR$/RBCLoan/src/test/java/com/sangchual/test/automation/WebDriverHelper.java" />
+        <option value="$PROJECT_DIR$/RBCLoan/src/test/java/com/sangchual/test/automation/rbc/loan/quote/CarLoanCalculator.java" />
       </list>
     </option>
   </component>
@@ -207,8 +202,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="44" />
-    <option name="y" value="29" />
+    <option name="x" value="205" />
+    <option name="y" value="22" />
     <option name="width" value="1805" />
     <option name="height" value="1003" />
   </component>
@@ -220,8 +215,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -310,7 +305,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -346,20 +341,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.HelloSeleniumTest">
+  <component name="RunManager" selected="TestNG.CarLoanCalculator">
     <configuration name="HelloSelenium" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sangchual.test.automation.rbc.loan.quote.HelloSelenium" />
-      <module name="RBCLoan" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sangchual.test.automation.rbc.loan.quote.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="OpenHomePage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sangchual.test.automation.rbc.loan.quote.OpenHomePage" />
       <module name="RBCLoan" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -398,6 +382,64 @@
         <value defaultName="singleModule" />
       </option>
       <patterns />
+    </configuration>
+    <configuration name="CarLoanCalculator" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RBCLoan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sangchual.test.automation.rbc.loan.quote.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="com.sangchual.test.automation.rbc.loan.quote" />
+      <option name="MAIN_CLASS_NAME" value="com.sangchual.test.automation.rbc.loan.quote.CarLoanCalculator" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="CarLoanCalculator.testCarLoanCalculator" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RBCLoan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sangchual.test.automation.rbc.loan.quote.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="com.sangchual.test.automation.rbc.loan.quote" />
+      <option name="MAIN_CLASS_NAME" value="com.sangchual.test.automation.rbc.loan.quote.CarLoanCalculator" />
+      <option name="METHOD_NAME" value="testCarLoanCalculator" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
     </configuration>
     <configuration name="HelloSeleniumTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="RBCLoan" />
@@ -481,17 +523,19 @@
     </configuration>
     <list>
       <item itemvalue="TestNG.OpenHomePageTest" />
-      <item itemvalue="Application.OpenHomePage" />
       <item itemvalue="Application.OpenHomePageWaitUntilClickable" />
       <item itemvalue="Application.HelloSelenium" />
       <item itemvalue="TestNG.HelloSeleniumTest" />
+      <item itemvalue="TestNG.CarLoanCalculator.testCarLoanCalculator" />
+      <item itemvalue="TestNG.CarLoanCalculator" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.CarLoanCalculator" />
+        <item itemvalue="TestNG.CarLoanCalculator.testCarLoanCalculator" />
         <item itemvalue="TestNG.HelloSeleniumTest" />
         <item itemvalue="Application.HelloSelenium" />
         <item itemvalue="Application.OpenHomePageWaitUntilClickable" />
-        <item itemvalue="Application.OpenHomePage" />
       </list>
     </recent_temporary>
   </component>
@@ -509,32 +553,12 @@
       <workItem from="1524443437069" duration="14283000" />
       <workItem from="1524915877874" duration="1209000" />
       <workItem from="1524917300402" duration="5030000" />
-      <workItem from="1525257228348" duration="2765000" />
+      <workItem from="1525257228348" duration="3291000" />
+      <workItem from="1525400720452" duration="7722000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="OpenHomePageTest - 2018.04.23 at 00h 14m 23s.xml">
-      <configuration name="OpenHomePageTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="OpenHomePageTest - 2018.04.23 at 00h 25m 12s.xml">
-      <configuration name="OpenHomePageTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="OpenHomePageTest - 2018.04.23 at 00h 49m 28s.xml">
-      <configuration name="OpenHomePageTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="OpenHomePageTest - 2018.04.23 at 01h 48m 23s.xml">
-      <configuration name="OpenHomePageTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="HelloSeleniumTest - 2018.04.28 at 09h 00m 48s.xml">
-      <configuration name="HelloSeleniumTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="HelloSeleniumTest - 2018.05.02 at 06h 49m 25s.xml">
-      <configuration name="HelloSeleniumTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="HelloSeleniumTest - 2018.05.02 at 06h 52m 43s.xml">
-      <configuration name="HelloSeleniumTest" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="HelloSeleniumTest - 2018.05.02 at 06h 55m 30s.xml">
       <configuration name="HelloSeleniumTest" configurationId="TestNG" />
     </history-entry>
@@ -544,13 +568,33 @@
     <history-entry file="HelloSeleniumTest - 2018.05.02 at 06h 58m 14s.xml">
       <configuration name="HelloSeleniumTest" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="CarLoanCalculator_testCarLoanCalculator - 2018.05.03 at 22h 34m 25s.xml">
+      <configuration name="CarLoanCalculator.testCarLoanCalculator" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CarLoanCalculator_testCarLoanCalculator - 2018.05.03 at 22h 38m 24s.xml">
+      <configuration name="CarLoanCalculator.testCarLoanCalculator" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CarLoanCalculator - 2018.05.03 at 23h 40m 58s.xml">
+      <configuration name="CarLoanCalculator" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CarLoanCalculator - 2018.05.04 at 00h 48m 57s.xml">
+      <configuration name="CarLoanCalculator" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CarLoanCalculator - 2018.05.04 at 00h 49m 41s.xml">
+      <configuration name="CarLoanCalculator" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CarLoanCalculator - 2018.05.04 at 00h 53m 28s.xml">
+      <configuration name="CarLoanCalculator" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CarLoanCalculator - 2018.05.04 at 00h 54m 33s.xml">
+      <configuration name="CarLoanCalculator" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25702000" />
+    <option name="totallyTimeSpent" value="33950000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -559,10 +603,10 @@
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.16302083" />
+      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.06822917" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30407524" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30407524" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -572,8 +616,8 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39916405" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -588,7 +632,106 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/RBCLoan/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TDRoan/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RBCLoan/src/test/java/com/sangchual/test/automation/rbc/loan/quote/OpenHomePageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="e#686#687#0" expanded="true" />
+            <element signature="e#733#734#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RBCLoan/src/test/java/com/sangchual/test/automation/rbc/loan/quote/NavigateToLoanTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="40" lean-forward="true" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#699#700#0" expanded="true" />
+            <element signature="e#746#747#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RBCLoan/src/test/java/com/sangchual/test/automation/rbc/loan/quote/CarLoanCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1695">
+          <caret line="113" column="28" selection-start-line="113" selection-start-column="28" selection-end-line="113" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RBCLoan/src/test/java/com/sangchual/test/automation/rbc/loan/quote/GettingStartedTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="70" column="5" selection-start-line="16" selection-end-line="70" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RBCLoan/src/main/java/com/sangchual/test/automation/rbc/loan/quote/HelloSelenium.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RBCLoan/src/test/java/com/sangchual/test/automation/rbc/loan/quote/HelloSeleniumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RBCLoan/src/test/java/com/sangchual/test/automation/rbc/loan/quote/RBC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RBCLoan/src/test/java/com/sangchual/test/automation/WebDriverHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/RBCLoan/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -773,8 +916,8 @@
     <entry file="file://$PROJECT_DIR$/RBCLoan/src/main/java/com/sangchual/test/automation/rbc/loan/quote/OpenHomePageWaitUntilClickable.java" />
     <entry file="file://$PROJECT_DIR$/RBCLoan/src/main/java/com/sangchual/test/automation/rbc/loan/quote/HelloSelenium.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        <state relative-caret-position="60">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -797,7 +940,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/RBCLoan/src/test/java/com/sangchual/test/automation/rbc/loan/quote/GettingStartedTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
+        <state relative-caret-position="885">
           <caret line="70" column="5" selection-start-line="16" selection-end-line="70" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -816,22 +959,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RBCLoan/src/test/java/com/sangchual/test/automation/rbc/loan/quote/CarLoanCalculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1095">
-          <caret line="113" column="28" selection-start-line="113" selection-start-column="28" selection-end-line="113" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#647#648#0" expanded="true" />
-            <element signature="e#694#695#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/RBCLoan/src/test/java/com/sangchual/test/automation/rbc/loan/quote/HelloSeleniumTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        <state relative-caret-position="150">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -840,8 +971,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/RBCLoan/src/test/java/com/sangchual/test/automation/rbc/loan/quote/NavigateToLoanTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="21" column="40" lean-forward="true" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+        <state relative-caret-position="120">
+          <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#699#700#0" expanded="true" />
@@ -852,8 +983,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/RBCLoan/src/test/java/com/sangchual/test/automation/WebDriverHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="28" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="28" />
+        <state relative-caret-position="345">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.11.0/selenium-support-3.11.0.jar!/org/openqa/selenium/support/ui/ExpectedConditions.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="482" column="45" selection-start-line="482" selection-start-column="45" selection-end-line="482" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RBCLoan/src/test/java/com/sangchual/test/automation/rbc/loan/quote/CarLoanCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="112" lean-forward="true" selection-start-line="112" selection-end-line="112" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
