@@ -1,10 +1,10 @@
 package com.sangchual.test.automation.rbc.loan.quote;
 
+import com.sangchual.test.automation.rbc.RBC;
 import com.sangchual.test.automation.WebDriverHelper;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.annotations.AfterMethod;

@@ -1,4 +1,4 @@
-package com.sangchual.test.automation.rbc.loan.quote;
+package com.sangchual.test.automation.rbc;
 
 public class RBC {
     public static String URL_PERSONAL_HOME = "https://www.rbcroyalbank.com/personal.html";

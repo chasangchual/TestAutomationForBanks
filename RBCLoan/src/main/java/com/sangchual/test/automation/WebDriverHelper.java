@@ -13,6 +13,7 @@ public class WebDriverHelper {
     }
 
     public static WebDriver getFireFoxDriver() {
+        setDriverPath();
         if(webDriverFireFox == null) {
             webDriverFireFox = new FirefoxDriver();
         }
@@ -20,6 +21,7 @@ public class WebDriverHelper {
     }
 
     public static WebDriver newFireFoxDriver() {
+        setDriverPath();
         return new FirefoxDriver();
     }
 }
